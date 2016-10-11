@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaper1", "Chaper1\Chaper1.csproj", "{C67600B9-DEF1-4BF3-BC7E-ECD0474C9879}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chaper2", "Chaper2", "{351B5622-113D-4924-8F24-642293BE2457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaper2", "Chaper2\Chaper2.csproj", "{FB9715A1-AC2C-4F2A-AE23-95A10492594D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaper3", "Chaper3\Chaper3.csproj", "{692675C9-CC6D-4D93-8B2C-90E176F872D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaper6", "Chaper6\Chaper6.csproj", "{92EB31A1-D7DB-4907-BC32-0DB9750BE467}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaper9", "Chaper9\Chaper9.csproj", "{E60F8EEF-22B7-418D-B330-63C91137EBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaper10", "Chaper10\Chaper10.csproj", "{D82FF772-DC5F-4C3D-9EC6-B0AE836614C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaper15", "Chaper15\Chaper15.csproj", "{E413A448-D69C-40CD-80A1-06EAA1CB52F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67600B9-DEF1-4BF3-BC7E-ECD0474C9879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67600B9-DEF1-4BF3-BC7E-ECD0474C9879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67600B9-DEF1-4BF3-BC7E-ECD0474C9879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67600B9-DEF1-4BF3-BC7E-ECD0474C9879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9715A1-AC2C-4F2A-AE23-95A10492594D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9715A1-AC2C-4F2A-AE23-95A10492594D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9715A1-AC2C-4F2A-AE23-95A10492594D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9715A1-AC2C-4F2A-AE23-95A10492594D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692675C9-CC6D-4D93-8B2C-90E176F872D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692675C9-CC6D-4D93-8B2C-90E176F872D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692675C9-CC6D-4D93-8B2C-90E176F872D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692675C9-CC6D-4D93-8B2C-90E176F872D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EB31A1-D7DB-4907-BC32-0DB9750BE467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EB31A1-D7DB-4907-BC32-0DB9750BE467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EB31A1-D7DB-4907-BC32-0DB9750BE467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EB31A1-D7DB-4907-BC32-0DB9750BE467}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E60F8EEF-22B7-418D-B330-63C91137EBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60F8EEF-22B7-418D-B330-63C91137EBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60F8EEF-22B7-418D-B330-63C91137EBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60F8EEF-22B7-418D-B330-63C91137EBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D82FF772-DC5F-4C3D-9EC6-B0AE836614C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D82FF772-DC5F-4C3D-9EC6-B0AE836614C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D82FF772-DC5F-4C3D-9EC6-B0AE836614C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D82FF772-DC5F-4C3D-9EC6-B0AE836614C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E413A448-D69C-40CD-80A1-06EAA1CB52F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E413A448-D69C-40CD-80A1-06EAA1CB52F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E413A448-D69C-40CD-80A1-06EAA1CB52F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E413A448-D69C-40CD-80A1-06EAA1CB52F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB9715A1-AC2C-4F2A-AE23-95A10492594D} = {351B5622-113D-4924-8F24-642293BE2457}
+	EndGlobalSection
+EndGlobal
